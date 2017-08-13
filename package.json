@@ -1,0 +1,21 @@
+{
+  "name": "Javascript-Interview",
+  "version": "1.0.0",
+  "description": "This is the code for javascript interview",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "yangli",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "jquery": "^3.2.1",
+    "redux": "^3.7.2",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.5.4"
+  }
+}
